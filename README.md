@@ -26,9 +26,9 @@ I am a passionate software developer with a knack for creating efficient and sca
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Manish-stack&theme=radical)
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Manish-stack&layout=compact&theme=radical)
+![Top Languages]![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-choudhary-65a62b343/)
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - Personal Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
